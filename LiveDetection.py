@@ -5,8 +5,7 @@ from matplotlib import pyplot as plt
 import numpy as np
 import imutils
 import easyocr
-from datetime import datetime
-import re
+
 
 from skimage.color.rgb_colors import green
 
